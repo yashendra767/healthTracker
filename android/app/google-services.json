@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878065037425",
+    "project_id": "trackrecords-377e3",
+    "storage_bucket": "trackrecords-377e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878065037425:android:ba0bba71f123e1aab92bd0",
+        "android_client_info": {
+          "package_name": "com.example.track_records_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQU-nAVGEgCkELQM3u8cVEZ0d1hv0hd24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
